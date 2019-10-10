@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [DevOps For Hybrid Cloud Network Interconnect](README.md)
 
