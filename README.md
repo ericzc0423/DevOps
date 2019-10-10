@@ -29,6 +29,16 @@ echo 'You got to trust me on this, I saved the world'
 
 ## AliCloud
 
+## Hyperscalers in China
+
+## Hyperscalers inteconnection between  China and Global
+
+## Equinix
+
+## Interxion
+
+
+
 
 
 
